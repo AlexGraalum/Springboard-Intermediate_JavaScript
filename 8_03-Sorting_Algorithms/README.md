@@ -6,6 +6,6 @@
 | Bubble Sort    | [bubble.js](./bubble.js)       | <b>Complete</b> |
 | Merge Sort     | [merge.js](./merge.js)         | <b>Complete</b> |
 | Insertion Sort | [insertion.js](./insertion.js) | <b>Complete</b> |
-| Selection Sort | [selection.js](./selection.js) | <b>Planned</b>  |
+| Selection Sort | [selection.js](./selection.js) | <b>Complete</b> |
 | Quick Sort     | [quick.js](./quick.js)         | <b>Planned</b>  |
 | Custom Sort    | [radix.js](./radix.js)         | <b>Planned</b>  |
