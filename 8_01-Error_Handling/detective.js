@@ -20,13 +20,14 @@ let vacation_days = 0;
 for (let i = 0; i < mission_count; i++) {
 	try {
 		mysteryOperation();
-		vacation_days += attend;
+		vacation_days += success;
 	}
 	catch (error) {
 		vacation_days += failure;
+		console.log(error.message);
 	}
 	finally {
-		vacation_days += success;
+		vacation_days += attend;
 	}
 }
 
