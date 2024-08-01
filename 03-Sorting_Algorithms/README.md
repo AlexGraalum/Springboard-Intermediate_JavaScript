@@ -1,5 +1,5 @@
 # Intermediate Javascript
-## 8.3 - Sorting Algorithms
+## Sorting Algorithms
 ---
 | Assignment     | File                           | Status          |
 | -------------- | ------------------------------ | --------------- |

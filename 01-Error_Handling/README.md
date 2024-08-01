@@ -1,5 +1,5 @@
 # Intermediate Javascript
-## 8.1 - Error Handling
+## Error Handling
 ---
 | Assignment              | File                           | Status          |
 | ----------------------- | ------------------------------ | --------------- |
