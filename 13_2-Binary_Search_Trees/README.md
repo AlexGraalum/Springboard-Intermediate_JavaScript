@@ -1,3 +1,3 @@
 # Intermediate JavaScript
-## Modules
+## Binary Search Trees
 ---

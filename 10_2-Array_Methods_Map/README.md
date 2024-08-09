@@ -1,3 +1,3 @@
 # Intermediate JavaScript
-## Modules
+## Array Methods: Map
 ---

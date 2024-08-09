@@ -1,3 +1,3 @@
 # Intermediate Javascript
-## Asynchronous Programming
+## Graph
 ---

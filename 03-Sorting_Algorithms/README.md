@@ -1,4 +1,4 @@
-# Intermediate Javascript
+# Intermediate JavaScript
 ## Sorting Algorithms
 ---
 | Assignment     | File                           | Status          |
