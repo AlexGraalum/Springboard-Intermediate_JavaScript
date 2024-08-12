@@ -11,7 +11,7 @@ Springboard Software Engineering Career Track: Intermediate JavaScript
 | 5.2        | [Asynchronous Programming](./05_2-Asynchronous_JavaScript/)                  | <b>Complete</b> |
 | 8.1        | [Hoisting](./08_1-Hoisting/)                                                 | <b>Complete</b> |
 | 8.2        | [Arrow Functions](./08_2-Arrow_Functions/)                                   | <b>Complete</b> |
-| 9.1        | [Rest & Spread Operations](./09_1-Rest_And_Spread_Operations/)               | <b>Planned</b>  |
+| 9.1        | [Rest & Spread Operations](./09_1-Rest_And_Spread_Operations/)               | <b>Complete</b> |
 | 9.2        | [Destructuring](./09_2-Destructuring/)                                       | <b>Planned</b>  |
 | 10.1       | [Array Methods (ForEach)](./10_1-Array_Methods_ForEach/)                     | <b>Planned</b>  |
 | 10.2       | [Array Methods (Map)](./10_2-Array_Methods_Map/)                             | <b>Planned</b>  |
