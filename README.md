@@ -18,6 +18,6 @@ Springboard Software Engineering Career Track: Intermediate JavaScript
 | 10.3       | [Array Methods (Filter)](./10_3-Array_Methods_Filter/)                       | <b>Complete</b> |
 | 10.4       | [Array Methods (Find & FindIndex)](./10_4-Array_Methods_Find_And_FindIndex/) | <b>Complete</b> |
 | 11         | [Modules](./11-Modules/)                                                     | <b>Complete</b> |
-| 13.1       | [Trees](./13_1-Trees/)                                                       | <b>Planned</b>  |
-| 13.2       | [Binary Search Trees](./13_2-Binary_Search_Trees/)                           | <b>Planned</b>  |
+| 13.1       | [Trees](./13_1-Trees/)                                                       | <b>Complete</b> |
+| 13.2       | [Binary Search Trees](./13_2-Binary_Search_Trees/)                           | <b>Complete</b> |
 | 15         | [Graph](./15-Graph/)                                                         | <b>Planned</b>  |
