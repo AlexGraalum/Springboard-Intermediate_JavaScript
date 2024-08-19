@@ -20,4 +20,4 @@ Springboard Software Engineering Career Track: Intermediate JavaScript
 | 11         | [Modules](./11-Modules/)                                                     | <b>Complete</b> |
 | 13.1       | [Trees](./13_1-Trees/)                                                       | <b>Complete</b> |
 | 13.2       | [Binary Search Trees](./13_2-Binary_Search_Trees/)                           | <b>Complete</b> |
-| 15         | [Graph](./15-Graph/)                                                         | <b>Planned</b>  |
+| 15         | [Graph](./15-Graph/)                                                         | <b>Complete</b> |
